@@ -1,10 +1,1 @@
-;;; 
-Export: Release 11.2.0.2.0 - Production on Tue Aug 6 00:00:06 2024
 
-Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
-;;; 
-Connected to: Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
-ORA-39000: bad dump file specification
-ORA-31641: unable to create dump file "C:\SHRI\Projects\FACFOCUS\db.dmp"
-ORA-27038: created file already exists
-OSD-04010: <create> option specified, file already exists
