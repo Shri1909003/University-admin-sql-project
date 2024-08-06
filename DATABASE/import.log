@@ -1,0 +1,11 @@
+;;; 
+Import: Release 11.2.0.2.0 - Production on Tue Aug 6 09:32:20 2024
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Connected to: Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+ORA-39000: bad dump file specification
+ORA-31640: unable to open dump file "C:\oraclexe\app\oracle/admin/xe/dpdump/expdat.dmp" for read
+ORA-27041: unable to open file
+OSD-04002: unable to open file
+O/S-Error: (OS 2) The system cannot find the file specified.
